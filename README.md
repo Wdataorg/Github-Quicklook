@@ -6,6 +6,7 @@
 
 - [简单介绍](#简单介绍)
 - [使用方法](#使用方法)
+- [官方网站](#官方网站)
 - [API接口的使用方法](#API接口的使用方法)
 
 ## 简单介绍
@@ -15,6 +16,10 @@
 ## 使用方法
 
 下载后会有一个`Github信息快速查看器.exe`的文件，这就是软件，双击打开后，输入仓库的拥有者，以及仓库名，即可查看相关信息
+
+## 官方网站
+
+Github-Quicklook官方网站:[https://Wdataorg/Github-Quicklook](https://Wdataorg/Github-Quicklook)
 
 ## API接口的使用方法
 
