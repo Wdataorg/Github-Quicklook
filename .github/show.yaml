@@ -1,0 +1,19 @@
+on: push
+
+jobs:
+  runit:
+    runs-on: ubuntu-latest
+    run: |
+      sudo apt install python3
+      sudo apt install git
+      git clone git@github.com:Wdataorg/Github-Quicklook
+      cd Github-Quicklook
+      pip3 install pyinstaller
+      pyinstaller -F ./main.py
+      cd dist
+      mv ./main ./Github信息快速查看器
+      cp -avx ./main ../
+      cd ..
+      git add .
+      git commit -m "Generate EXE"
+      git push
