@@ -3,7 +3,7 @@
 ![https://img.shields.io/github/forks/Wdataorg/Github-Quicklook](https://img.shields.io/github/forks/Wdataorg/Github-Quicklook)
 ![https://img.shields.io/github/stars/Wdataorg/Github-Quicklook](https://img.shields.io/github/stars/Wdataorg/Github-Quicklook)
 ![https://img.shields.io/github/license/Wdataorg/Github-Quicklook](https://img.shields.io/github/license/Wdataorg/Github-Quicklook)
-https://www.murphysec.com/platform3/v3/badge/1612817586031460352.svg?t=1
+![https://www.murphysec.com/platform3/v3/badge/1612817586031460352.svg?t=1](https://www.murphysec.com/platform3/v3/badge/1612817586031460352.svg?t=1)
 
 - [简单介绍](#简单介绍)
 - [使用方法](#使用方法)
